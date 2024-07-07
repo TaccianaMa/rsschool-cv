@@ -19,9 +19,11 @@ Compass Test Automation Framework,
 VNC Viewer, Lighthouse
 
 # Languages
-+ English: B1+
-+ German: A2+
-+ Polish: B1
++ English: B1+;
++ German: A2+;
++ Polish: B1;
++ Belarus: Native;
++ Russian: Native
 
 # Experience
 *Key Software Testing Engineer EPAM Systems (October 2021 - Current)*
